@@ -1,0 +1,22 @@
+{
+  "name": "it18156652_w_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dulanji1/IT18156652_W_12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dulanji1/IT18156652_W_12/issues"
+  },
+  "homepage": "https://github.com/Dulanji1/IT18156652_W_12#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
